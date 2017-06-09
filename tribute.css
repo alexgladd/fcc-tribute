@@ -1,0 +1,17 @@
+body {
+  margin-top: 60px;
+  font-family: Monda, sans-serif;
+}
+
+#footer {
+  margin-top: 60px;
+  background-color: #fff;
+  border-color: #fff;
+  border-width: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.header-img {
+  width: 100%;
+}
